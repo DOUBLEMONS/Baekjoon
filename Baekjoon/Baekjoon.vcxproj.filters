@@ -27,5 +27,8 @@
     <ClCompile Include="DynamicProgramming\9461_Fidovansequence.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9184_Running Exciting Functions.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
